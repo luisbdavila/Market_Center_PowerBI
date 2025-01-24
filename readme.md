@@ -45,14 +45,14 @@ Market Center lacked an effective way to analyze its transactional data for busi
   - Male customers made up 53% of the customer base.
   - 68% of customers had kids.
 
-    ![Customer](images/Customers.png)  
+    ![Customer](Customers.png)  
     *Figure: Customer Behavior*
 
 - **Product Performance**:
   - Books and electronics generated the highest revenue.
   - Bags and footwear had the lowest sales.
 
-    ![Products](images/Products.png)  
+    ![Products](Products.png)  
     *Figure: Product Performance*
 
 - **Sales Trends**:
@@ -60,7 +60,7 @@ Market Center lacked an effective way to analyze its transactional data for busi
   - Credit card was the most preferred payment method (60.97%).
   - Most sales occurred online, followed by in-store transactions.
 
-    ![Sales Overview](images/Sales_overview.png)  
+    ![Sales Overview](Sales_overview.png)  
     *Figure: Sales Overview*
 
 ## Recommendations
